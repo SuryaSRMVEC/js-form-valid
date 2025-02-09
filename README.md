@@ -28,4 +28,4 @@ This repository contains a simple project to practice and demonstrate form valid
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/js-validation-practice.git
+   git clone https://github.com/your-username/js-form-valid.git
